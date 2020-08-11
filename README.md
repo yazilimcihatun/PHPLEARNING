@@ -9,3 +9,4 @@ Açık kaynak kodlu olduğu için gelişime sürekli açıktır.
 Kod dizilimi basittir, kolayca öğrenilebilir.
 # PHP Kodlama Nasıl Yapılır ?
 PHP ile kodlama yapabilmek için bilgisayarda bazı modül yazılımının bulunması gerekir. Apache, MySQL, PhpMyAdmin vs. gibi. Bu modülleri tek tek kurmak yerine bunların bulunduğu XAMPP, LAMP, WAMP gibi paketler daha çok tercih edilir.
+PHP kodlarını hızlı ve anlaşılır yazabilmek için Sublime Text, Notepad++, Atom gibi yazılımlar kullanılabilir. Onun dışında büyük projelerde, Netbeans, PHPStorm gibi IDE'lerde kullanılabilir.
