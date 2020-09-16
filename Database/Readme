@@ -9,7 +9,8 @@ CREATE DATABASE
 8- Right click the ID and make it private, then save as auto increment.
 
 MYSQLi CODES
-1-mysqli_connect(“localhost”,”root”,””,”database_name”); => Establishes a connection with the database.
+1-mysqli_connect(“servername”,”admin”,”password”,”database_name”); => Establishes a connection with the database.
 2-mysqli_connect_error(); => Prints if there is an error.
 3-mysqli_set_charset(“utf8”)=> It is used to prevent the Turkish character problem.
 4-mysqli_fetch_assoc();=>Data was received.
+5-mysqli_query()=> run the querty.
