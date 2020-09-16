@@ -1,0 +1,15 @@
+CREATE DATABASE
+1-İnstall Heidisql.
+2-Creating the localhost database.
+3-Right click create new databese 
+4-Right click again and create new table
+5-Write the data
+6-Edit data types
+7-Make the first part special.
+8- Right click the ID and make it private, then save as auto increment.
+
+MYSQLi CODES
+1-mysqli_connect(“localhost”,”root”,””,”database_name”); => Establishes a connection with the database.
+2-mysqli_connect_error(); => Prints if there is an error.
+3-mysqli_set_charset(“utf8”)=> It is used to prevent the Turkish character problem.
+4-mysqli_fetch_assoc();=>Data was received.
